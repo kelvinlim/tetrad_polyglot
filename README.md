@@ -1,7 +1,7 @@
-# tetrad_python
+# tetrad_polyglot
 
 Information for creating a devcontainer to support using vscode for 
-writing python code with tetrad.
+writing python and R code with tetrad.
 
 A prerequisite is that you have installed vscode and docker on your system. 
 This has been tested on:
@@ -25,6 +25,8 @@ load a dataset and run several searches using tetrad.
  python demo_code.py
 
 ```
+
+Need some R code examples here.
 
 ## jpype supports python access to Java
 

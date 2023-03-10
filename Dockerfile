@@ -18,4 +18,5 @@ RUN apt install -y r-base
 
 # install R and rjava and java sdk
 RUN apt install -y r-base r-cran-rjava
+RUN Rscript install_rjava.r
 

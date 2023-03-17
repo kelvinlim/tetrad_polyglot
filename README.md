@@ -7,7 +7,8 @@ A prerequisite is that you have installed vscode and docker on your system.
 This has been tested on:
 1. macOS 
 2. ubuntu 20.04
-3. Windows 11 under WSL (Windows Subsystem for Linux)
+3. Windows 10 under WSL (Windows Subsystem for Linux)
+4. Windows 11 under WSL (Windows Subsystem for Linux)
 
 In vscode, be sure you have the extensions installed for Dev Containers and Python; both from Microsoft
 
